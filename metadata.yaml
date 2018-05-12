@@ -1,0 +1,32 @@
+_repo: The-Sign-of-the-Stranger_41089
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Queux, William
+    aliases:
+    - Queux, William Le
+    - Queux, William Tufnell Le
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '3141'
+    url: http://www.gutenberg.org/2009/agents/3141
+    wikipedia: http://en.wikipedia.org/wiki/William_Le_Queux
+description: ''
+gutenberg_issued: '2012-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41089'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+title: The Sign of the Stranger
+url: http://www.gutenberg.org/ebooks/41089
